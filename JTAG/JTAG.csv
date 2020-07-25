@@ -1,0 +1,18 @@
+# system info JTAG on 2020.07.18.09:57:46
+system_info:
+name,value
+DEVICE,EP4CE15F17C8
+DEVICE_FAMILY,Cyclone IV E
+GENERATION_ID,1595062664
+#
+#
+# Files generated for JTAG on 2020.07.18.09:57:46
+files:
+filepath,kind,attributes,module,is_top
+simulation/JTAG.v,VERILOG,,JTAG,true
+simulation/submodules/sld_virtual_jtag.v,VERILOG,,sld_virtual_jtag,false
+#
+# Map from instance-path to kind of module
+instances:
+instancePath,module
+JTAG.virtual_jtag_0,sld_virtual_jtag
