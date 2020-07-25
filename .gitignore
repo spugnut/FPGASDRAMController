@@ -42,7 +42,6 @@ timing
 *.sof
 *.sopc_builder
 *.summary
-*.tcl
 *.txt # Explicitly add any text files used
 *~
 *example*
@@ -52,3 +51,8 @@ output_files/Leaf300a.sld
 output_files/MemoryAccessTestbench.cdf
 output_files/MemoryAccessTestbench.sld
 output_files/stp3.stp
+MemoryPhy_phy_ddr_pins.tcl
+MemoryPhy_phy_ddr_timing.tcl
+MemoryPhy_phy_report_timing.tcl
+MemoryPhy_phy_report_timing_core.tcl
+MemoryPhy_pin_assignments.tcl
